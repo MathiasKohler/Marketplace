@@ -7,7 +7,7 @@ const productController = require('./controllers/productController');
 
 const app = express();
 const port = 3000;
-const message = {message: 'Welcome to Dresstore Application Test'};
+const message = {message: 'Welcome to Dresstore Application Test2'};
 
 
 app.use(express.json());
